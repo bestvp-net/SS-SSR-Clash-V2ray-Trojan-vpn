@@ -19,6 +19,8 @@
 |:-------------------------------------------------------------------- |:------------- |:---- |:------------ |
 | [万达云](https://app.wdycenter.com/register?code=XfGOTwtN)           | 150G/13.90    | 3G   | wandayun     |
 | [奈云](https://www.v2ny.com/#/register?code=ofpW4SJO)                | 168G/10.66    | 6G   | NYN9Z        |
+| [superbiu](https://superbiu.com/#/register?code=nDnvq2vP)|50G/11.00|||
+|[ssone](https://m.ssone.io/#/register?code=UaSKO6As)|60G/10.00|1G||
 | [网际快车](https://wjkc123.com?c=UZLFXK)                             | 无限流量/24.0 | 2G   | WJKCGW       |
 | [speedypro](https://cloud.speedypro.xyz/#/register?code=VghvQMhn)    | 150G/9.90     | 10G  |  happy20251001    |
 | [极光](https://jgjs02.com/#/register?code=CdRuHz75)                  | 500G/36.00    | 10G  |              |
