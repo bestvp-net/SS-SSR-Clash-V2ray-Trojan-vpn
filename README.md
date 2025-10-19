@@ -25,7 +25,7 @@
 | [speedypro](https://cloud.speedypro.xyz/#/register?code=VghvQMhn)    | 150G/9.90     | 10G  |  happy20251001    |
 | [极光](https://jgjs02.com/#/register?code=CdRuHz75)                  | 500G/36.00    | 10G  |              |
 | [贝贝云](https://beibei.cloud/?path=register&code=0yPev506)          | 100G/11.0     |      | beibei.cloud |
-｜[getcloud](https://invite.wgetcloud.ltd/auth/register?code=WMrh7B)||||
+|[getcloud](https://invite.wgetcloud.ltd/auth/register?code=WMrh7B)||||
 | [Best](https://go.invitevp.com/#/register?code=ZvZUM9q9)             | 100G/19.9     | 2G   |              |
 | [arisaka](https://arisaka.io/#/register?code=XKUBhGF7)               | 80G/13.99     |      | UwtJ9Ov1     |
 | [SAC](https://hk.sacjs.host/#/register?code=Azo1hoOW)                | 300G/15.99    |      |              |
